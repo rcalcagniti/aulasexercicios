@@ -6,10 +6,19 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		BB627E9B2CC1A49C00EC3E0C /* aula 1710 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "aula 1710";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
 /* Begin PBXGroup section */
 		BB627E942CC1A49500EC3E0C = {
 			isa = PBXGroup;
 			children = (
+				BB627E9B2CC1A49C00EC3E0C /* aula 1710 */,
 			);
 			sourceTree = "<group>";
 		};
