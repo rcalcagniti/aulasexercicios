@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXFileReference section */
+		BB627E9D2CC2A2CD00EC3E0C /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		BB627E9B2CC1A49C00EC3E0C /* aula 1710 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
@@ -18,6 +22,7 @@
 		BB627E942CC1A49500EC3E0C = {
 			isa = PBXGroup;
 			children = (
+				BB627E9D2CC2A2CD00EC3E0C /* readme.md */,
 				BB627E9B2CC1A49C00EC3E0C /* aula 1710 */,
 			);
 			sourceTree = "<group>";
