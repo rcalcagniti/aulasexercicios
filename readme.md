@@ -1,4 +1,4 @@
-# Hi, I'm Monica 👋🏾 👩🏾‍💻
+# Hi, I'm Rebeka 👋🏾 👩🏾‍💻
 
 
 I'm a Customer Success Manager for a Software company that is learning coding.
@@ -8,3 +8,6 @@ I'm a Customer Success Manager for a Software company that is learning coding.
 
 
 - Sharing updates on <a href="https://www.linkedin.com/in/rebeka-calcagniti-308820116/">LinkedIn</a> 💼
+
+
+
