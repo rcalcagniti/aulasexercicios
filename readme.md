@@ -1,4 +1,4 @@
-# Hi, I'm Rebeka 👋🏾 👩🏾‍💻
+# Hi, I'm Rebeka Calcagniti 👋🏾 👩🏾‍💻
 
 
 I'm a Customer Success Manager for a Software company that is learning coding.
